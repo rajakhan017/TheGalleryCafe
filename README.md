@@ -37,7 +37,7 @@ Through this task, you'll gain practical experience with opening and closing tag
 
 ## Hosted Link
 
-You can access the live preview of the webpage [here](https://your-username.github.io/gallery-cafe/).
+You can access the live preview of the webpage [here](https://rajakhan017.github.io/TheGalleryCafe/?authuser=0)
 
 ---
 
